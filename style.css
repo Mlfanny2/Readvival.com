@@ -1,0 +1,111 @@
+*{
+text-decoration: none;
+list-style: none;
+margin: 0px;
+}
+.main {
+  background-image: url("bgg2.png");
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+  background-attachment: fixed;
+  height: 600px;
+}
+.navbar {
+    border: 1px solid;
+    height: 60px;
+    background-color: #023E8A;
+    
+}
+
+.logo {
+font-size: 20px;
+color: #FFFFFF;
+position: relative;
+display: absolute;
+position: relative;
+top: 17px;
+font-weight: bold;
+padding-left: 5px;
+font-family: "Arial Black";
+}
+
+ul li {
+   display: absolute;
+    float: right;
+    margin-right: 15px;
+    top: -5px;
+    position: relative;
+}
+ul li a{
+color: #FFFFFF;
+font-family: "Arial Black";
+font-weight: bold;
+}
+
+ul li a:hover{
+color: #5A63A4;
+}
+
+
+.par{
+    font-size: 15px;
+    font-family: Georgia;
+    top: 45px;
+    display: absolute;
+    bottom: 50px;
+    position: relative;
+}
+
+.content {
+}
+ 
+.content h1{
+    display: block;
+    top: 35px;
+    position: relative;
+    text-align: center;
+   
+}
+.content h1 {
+  background-image: url(1.png);
+  background-size: cover;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.sec{
+
+}
+
+.download1{
+    
+}
+.down {
+    border: 2px solid;
+    display: block;
+    position: relative;
+    right: 10px;
+    top: 50px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.down a {
+    color: #000000;
+}
+
+audio {
+position: relative;
+top: 50px;
+}
+
+#button1 {
+position: relative;
+top: 50px;
+display: block;
+width: 150px;
+margin-left: 10px;
+padding: 10px;
+font-weight: bold;
+border-radius: 5px;
+
+}

@@ -1,0 +1,14 @@
+body h1 {
+background-image: url(1.png);
+background-size: cover;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.paragraph {
+color: #000000;
+font-family: "Times New Roman";
+font-size: 25px;
+
+
+}
